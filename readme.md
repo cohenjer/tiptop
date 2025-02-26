@@ -6,7 +6,7 @@ Ce dépot contient les documents utiles pour le projet transverse TipTop de CREA
 ## Historique des présentations
 | Date  | Speaker  | Topic   |
 |---|---|---|
-| 2025-04-08 | Pierre Lemaitre | 
+| 2025-04-08 | Thomas Lemaitre | 
 | 2024-12-06 | Adithep Kawinkij | Intraoperative resting state optical imaging
 | 2024-09-16 | Antoine Uzel | Fluorescence spectroscopy for liver viability
 | 2024-07-02 | Hedi et Simon| Speechs scientifiques des stagiaires en optique 
