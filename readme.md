@@ -2,6 +2,10 @@
 
 Ce dépot contient les documents utiles pour le projet transverse TipTop de CREATIS.
 
+## Historique des séminaires invités
+| Date  | Speaker  | Topic   |
+|---|---|---|
+| 2025-04-16 | Ricardo Borsoi (CR CNRS, CRAN) | Leveraging data-driven models to solve inverse problems | 
 
 ## Historique des présentations
 | Date  | Speaker  | Topic   |
